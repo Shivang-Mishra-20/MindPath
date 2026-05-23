@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+.venv/
+
+# Django
+*.log
+db.sqlite3
+staticfiles/
+mediafiles/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# ML model files
+*.joblib
+*.pkl
+
+# Frontend
+node_modules/
+frontend/dist/
+
+# Editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Temporary files
+*.tmp
+*.bak
