@@ -1,4 +1,4 @@
-# 🌿 MindPath — AI-Powered HR Analytics Platform
+# MindPath — AI-Powered HR Analytics Platform
 
 > A full-stack AI/ML-powered HR analytics platform built using React, Django REST Framework, scikit-learn, HuggingFace Transformers, and Google Gemini.
 
